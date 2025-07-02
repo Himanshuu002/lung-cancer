@@ -51,14 +51,3 @@ Balanced with downsampling and synthetic techniques.
 📌 *BalancedRandomForestClassifier from imblearn gave the best performance after tuning.*
 
 ---
-
-## 🛠️ How to Run
-
-### 1. Clone and Install
-```bash
-git clone https://github.com/yourusername/lung-cancer-prediction.git
-cd lung-cancer-prediction
-pip install -r requirements.txt
-
-
-jupyter notebook lung_cancer_pipeline.ipynb
